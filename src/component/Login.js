@@ -28,7 +28,7 @@ const Login = () => {
                                 <div className='mt-6'>
                                     <label className='block text-start text-sm font-medium leading-5 mb-1 text-gray-700'>Senha</label>
                                     <div>
-                                        <input type="text" className='form-input block py-2 px-3 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out sm:text-sm sm:leading-5 w-full' autoComplete='off' name='null' />
+                                        <input type="password" className='form-input block py-2 px-3 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out sm:text-sm sm:leading-5 w-full' autoComplete='off' name='null' />
                                     </div>
 
                                 </div>
